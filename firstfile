@@ -1,0 +1,12 @@
+cd = changing directory.
+mkdir = creating directory.
+ls = list.
+touch = creating file.
+cp = copy.
+cat = viewing files.
+less = view file in a larger window.
+mv = renaming and moving files.
+echo = to view and create files.
+rm -r = to delete folder.
+rm = to delete file.
+vi = view and edit or write in a file.
